@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/31277324.svg)](https://zenodo.org/badge/latestdoi/31277324)
+
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
